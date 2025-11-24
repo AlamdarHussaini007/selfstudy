@@ -1,0 +1,29 @@
+name: Check OS and Docker Version
+
+on:
+  push:
+    branches: ["main"]
+  workflow_dispatch:
+
+jobs:
+  check-environment:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Display OS Information
+        run: uname -a
+
+      - name: Display OS Release Info
+        run: cat /etc/os-release
+
+      - name: Check Docker Version
+        run: docker --version
+
+      - name: Check Docker Info
+        run: docker info
+
+      - name: List Docker Images (optional)
+        run: docker images
+
+      - name: List Docker Containers (optional)
+        run: docker ps -a
