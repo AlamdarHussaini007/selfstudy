@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\A9DKRZZ\\source\\repos\\AlamdarHussaini007\\selfstudy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\A9DKRZZ\\source\\repos\\AlamdarHussaini007\\selfstudy\\Syed.Py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Syed.Py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\A9DKRZZ\\source\\repos\\AlamdarHussaini007\\selfstudy\\Syed - Copy (2) - Copy.Py||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Syed - Copy (2) - Copy.Py||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Syed.Py",
+              "DocumentMoniker": "C:\\Users\\A9DKRZZ\\source\\repos\\AlamdarHussaini007\\selfstudy\\Syed.Py",
+              "RelativeDocumentMoniker": "Syed.Py",
+              "ToolTip": "C:\\Users\\A9DKRZZ\\source\\repos\\AlamdarHussaini007\\selfstudy\\Syed.Py",
+              "RelativeToolTip": "Syed.Py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-24T16:02:21.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Syed - Copy (2) - Copy.Py",
+              "DocumentMoniker": "C:\\Users\\A9DKRZZ\\source\\repos\\AlamdarHussaini007\\selfstudy\\Syed - Copy (2) - Copy.Py",
+              "RelativeDocumentMoniker": "Syed - Copy (2) - Copy.Py",
+              "ToolTip": "C:\\Users\\A9DKRZZ\\source\\repos\\AlamdarHussaini007\\selfstudy\\Syed - Copy (2) - Copy.Py",
+              "RelativeToolTip": "Syed - Copy (2) - Copy.Py",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002457|",
+              "WhenOpened": "2025-11-24T15:56:10.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
