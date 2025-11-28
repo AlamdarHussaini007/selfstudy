@@ -1,0 +1,22 @@
+
+name: Deploy Splunk Use Cases
+on:
+  push:
+    branches: [ main ]
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - name: Install Dependencies
+        run: pip install splunk-sdk pyyaml
+      - name: Deploy to Splunk
+        env:
+          SPLUNK_HOST: ${{ secrets.SPLUNK_HOST }}
+          SPLUNK_TOKEN: ${{ secrets.SPLUNK_TOKEN }}
+          SPLUNK_APP: my_app
+        run: python deploy_splunk.py
